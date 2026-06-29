@@ -54,18 +54,17 @@ I enjoy combining **analytical thinking with creativity** through programming, d
 ## 📫 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/devadhaarini-d-155a0a2b7/">
-      <img src="https://img.shields.io/badge/LinkedIn-Devadhaarini%20D-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/sharika-r-6517bb32a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Sharika%20R-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   
-  <a href="mailto:dhaarinidd@gmail.com">
-    <img src="https://img.shields.io/badge/Email-dhaarinidd@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:sharikaramachandran8@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sharikaramachandran8%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
-  <a href="https://leetcode.com/u/DhaariniDD/">
-    <img src="https://img.shields.io/badge/LeetCode-DevadhaariniD-000000?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <a href="https://leetcode.com/u/sharika08/">
+    <img src="https://img.shields.io/badge/LeetCode-sharika08-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
-
 </p>
 
 ---
