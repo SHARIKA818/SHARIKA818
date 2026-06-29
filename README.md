@@ -45,9 +45,8 @@ I enjoy combining **analytical thinking with creativity** through programming, d
 ## 📊 Competitive Programming
 
 <p>
-  <img src="https://leetcard.jacoblin.cool/DhaariniDD?theme=dark&font=Baloo+Bhai&ext=contest" alt="LeetCode Stats">
+  <img src="https://leetcard.jacoblin.cool/sharika08?theme=dark&font=Baloo+Bhai&ext=contest" alt="LeetCode Stats">
 </p>
-
 
 
 ---
